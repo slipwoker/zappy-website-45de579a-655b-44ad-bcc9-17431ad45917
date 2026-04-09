@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לבית קפה מתוקים בעיניים – המקום שבו כל כוס קפה הופכת לחוויה בלתי נשכחת. תפריט עשיר, אווירה חמה ושירות שמגיע מהלב. בואו לגלות!
+
+### שירותים
+https://example.com/services
+ממסיבות פרטיות ועד ימי גיבוש – בית קפה מתוקים בעיניים מציע מגוון שירותים מיוחדים שיהפכו כל אירוע לחוויה מתוקה ומושלמת. גלו את כל מה שיש לנו להציע!
+
+### אודות
+https://example.com/about
+בית קפה מתוקים בעיניים נולד מתוך אהבה אמיתית לקפה ולאנשים. הכירו את הצוות, את הערכים ואת החזון שהופכים אותנו לבית קפה שאי אפשר לשכוח. הסיפור שלנו מחכה לכם!
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין מקום, לשאול שאלה או לשמוע עוד על השירותים שלנו? צרו קשר עם בית קפה מתוקים בעיניים עכשיו – נשמח לענות לכל פנייה ולהפוך את הביקור הבא שלכם למיוחד!
+
+### Products
+https://example.com/products
+המוצרים שלנו - מתוקים בעיניים
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מתוקים בעיניים
+
+### Category
+https://example.com/category/:slug
+מוצרים - מתוקים בעיניים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
